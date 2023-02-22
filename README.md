@@ -8,3 +8,5 @@ instruction for execute
 before execute it create the database in postgres 
 database name : moviesdb
 Table will create automatically by Hibernate
+#This is for mongodb learnig
+https://share.vidyard.com/watch/uswnzRiiTzVimrLzrBPL83?
